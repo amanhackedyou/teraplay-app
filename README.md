@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" height="120" alt="TerapPlay Logo" />
+<img src="./logo.png" width="120" height="120" alt="TerapPlay Logo" />
 
 # TerapPlay
 
@@ -87,11 +87,12 @@ TerapPlay is a sleek, privacy-first media client that lets you stream and downlo
 
 > **Minimum:** Android 6.0 (API 23) or higher
 
-1. Go to the [**Releases**](https://github.com/yourusername/teraplay/releases/latest) page
+1. Go to the [**Releases**](https://github.com/amanhackedyou/teraplay/releases/latest) page
 2. Download the `.apk` file for your device:
-   - `teraplay-arm64-v8a.apk` — most modern phones (recommended)
-   - `teraplay-armeabi-v7a.apk` — older 32-bit phones
-   - `teraplay-universal.apk` — if unsure, use this
+   - `app-arm64-v8a-release.apk` *(33.1 MB)* — most modern phones (recommended)
+   - `app-armeabi-v7a-release.apk` *(30.0 MB)* — older 32-bit phones
+   - `app-x86_64-release.apk` *(37.9 MB)* — x86 emulators / some tablets
+   - `app-universal-release.apk` — if unsure, use this
 3. Open the downloaded file on your phone
 4. If prompted, allow installation from unknown sources:
    - Go to **Settings → Apps → Special app access → Install unknown apps**
